@@ -20,10 +20,10 @@ The redesigned app will utilize data from the following sources:
 
 ## Screenshots
 
-![MorePageAlerts](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/91379f6e-d3bc-4766-bcfd-059d78d0af76)
-![SearchBar](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/f8b59d9f-0c1f-438b-9708-8da5cca1d651)
-![MorePage](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/01898ccd-984a-42fa-abc6-9f573a46cd81)
-![Markers](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/246331b4-6b19-46ea-97e5-60cc60abdcae)
-![MapPage](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/516ae1d2-8e13-4abc-9444-2e725d77adc5)
-![Uploading LocationsPageAlerts.PNG…]()
-![LocationsPage](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/829afa7d-a070-49de-9590-385c8877d904)
+![LocationsPage](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/5ac3a6a7-3b68-4b74-8b07-564f0cc52797)
+![MapPage](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/028a95ab-b355-44cd-ae0a-e2071faede11)
+![LocationsPageAlerts](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/4b41370f-95be-4476-8212-e5999210173a)
+![Markers](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/263f14e4-f69d-4de5-8e83-f5e454481a5c)
+![MorePageAlerts](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/a16b39ee-08c1-4ffa-8747-c5875185aee4)
+![MorePage](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/5d983af8-2d26-43fb-a13e-50a30d9ce2b6)
+![SearchBar](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/045c1163-d167-4a71-9552-3b529070e317)
