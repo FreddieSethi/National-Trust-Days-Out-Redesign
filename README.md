@@ -18,6 +18,13 @@ The redesigned app will utilize data from the following sources:
 - National Trust API: The National Trust Data sets will provide location and place-related information, including geojson location data and opening time information.
 - External APIs: Other external APIs are integrated into the app to provide additional live data, such as weather and temperature information.
 
+## TO RUN THIS PROJECT LOCALLY :
+- -> new terminal
+- -> cd path/to/project
+- -> npm install
+- -> npm start (requires node.js)
+- -> scan qr code to run on mobile device
+
 ## Screenshots
 
 ![LocationsPage](https://github.com/FreddieSethi/National-Trust-Days-Out-Redesign/assets/71394523/dfcb33ab-734b-4d33-b327-3e234bc7dc55)
